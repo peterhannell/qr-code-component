@@ -38,7 +38,7 @@ picture {
   border-radius: 1.25rem;
   padding: 0.9375rem;
   padding-bottom: 1.6rem;
-  box-shadow: rgb(255 255 255 / 10%) 0px 10px 20px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
 }
 
 #qr-img {
